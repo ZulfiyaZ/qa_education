@@ -1,0 +1,19 @@
+class: Student
+name: Peter
+age: 23.11.1985,
+children: null
+faculty: Finance
+graduation year:
+  - year: 2026,
+    document: diploma
+  - courses: 'enterprise finance',
+    courses_name: 'Finance & Co'}
+gender: men
+taxId: 123456789
+group:
+    - {Name: Mary, age: 25, country: Russia}
+    - {Name: Oleg, age: 24.5, country: Ukraine}
+address:
+    country: UK
+    city: London
+    'tel number': +7-265-9547321

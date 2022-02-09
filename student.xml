@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <class>Student</class>
+  <name>Peter</name>
+  <age>23.11</age>
+  <children></children>
+  <faculty>Finance</faculty>
+  <gender>men</gender>
+  <taxId>123456789</taxId>
+  <group>
+    <Name>Mary</Name>
+    <age>25</age>
+    <country>Russia</country>
+  </group>
+  <group>
+    <Name>Oleg</Name>
+    <age>24.5</age>
+    <country>Ukraine</country>
+  </group>
+  <address>
+    <country>UK</country>
+    <city>London</city>
+    <tel_number>+7-265-9547321</tel_number>
+  </address>
+  <graduation_year>
+    <year>2026</year>
+    <document>diploma</document>
+  </graduation_year>
+  <graduation_year>
+    <courses>enterprise finance</courses>
+    <courses_name>Finance &amp; Co</courses_name>
+  </graduation_year>
+</root>
