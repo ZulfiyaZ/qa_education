@@ -1,11 +1,13 @@
 class: Student
 name: Peter
-age: 23.11
-children: 'null'
+age: 23.11.1985,
+children: null
 faculty: Finance
-'graduation year':
-    - {year: 2026, document: diploma}
-    - {courses: 'enterprise finance', courses_name: 'Finance & Co'}
+graduation year:
+  - year: 2026,
+    document: diploma
+  - courses: 'enterprise finance',
+    courses_name: 'Finance & Co'}
 gender: men
 taxId: 123456789
 group:

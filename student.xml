@@ -3,7 +3,7 @@
   <class>Student</class>
   <name>Peter</name>
   <age>23.11</age>
-  <children>null</children>
+  <children></children>
   <faculty>Finance</faculty>
   <gender>men</gender>
   <taxId>123456789</taxId>
